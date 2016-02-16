@@ -1,7 +1,7 @@
 ---
-title       : 
+title       : Red Media, Blue Media
 subtitle    : 
-author      : 
+author      : MJ Cho
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## Research Questions
 
 1. Edit YAML front matter
 2. Write using R Markdown
@@ -20,6 +20,16 @@ knit        : slidify::knit2slides
 --- .class #id 
 
 ## Slide 2
+
+
+
+---
+
+## Slide 3
+
+
+
+---
 
 
 
